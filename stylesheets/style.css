@@ -1,0 +1,18 @@
+body {
+	font-family: 'Roboto', serif;
+}
+
+div h5{
+	width: 400px;
+	margin: auto;
+}
+
+div{
+	display: block; 
+	text-align: center; 
+}
+
+#rangeDiv{
+	padding-top: 100px;
+}
+
